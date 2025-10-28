@@ -1,0 +1,5 @@
+{
+  "name": "Rchat",
+  "description": "A web-based chat application that mimics the user interface of Telegram, featuring a smart AI contact powered by the Gemini API for interactive conversations.",
+  "requestFramePermissions": []
+}
